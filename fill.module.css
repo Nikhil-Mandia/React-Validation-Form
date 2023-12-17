@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.form {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+legend {
+  font-size: larger;
+  font-family: sans-serif;
+}
+.fieldset {
+  padding: 20px 10px 10px 10px;
+  /* margin-top: 60px; */
+}
+.div {
+  display: flex;
+}
+.btn {
+  padding-top: 50px;
+  text-align: center;
+}
+.tbtn {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  text-align: end;
+}
+.error {
+  color: rgb(216, 56, 56);
+  margin-left: 10px;
+}
